@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Sealed: true
+Created-By: 上海净阅科技有限公司
+Implementation-Title: 九云图 SDK for Java
+Implementation-Version: 1.0.0
+URL: http://www.9yuntu.com
